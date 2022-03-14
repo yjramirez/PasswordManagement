@@ -16,5 +16,9 @@
   2) System.Net.Http.Json 5.0.0
 - Visual Studio 2019
 
+# Run App.
+Make sure to have both project running.
+![image](https://user-images.githubusercontent.com/9645045/158180962-c6de516f-aa7d-4ed1-9f7e-c09c69be1af6.png)
+
 
    
